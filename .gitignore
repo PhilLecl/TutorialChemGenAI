@@ -1,5 +1,6 @@
 xtb_opt/
 data
+runs/
 
 ### Created by https://www.gitignore.io
 ### JupyterNotebooks ###
